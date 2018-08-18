@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But still look in subdirectories
+!*/
+
+# And don't ignore this stuff
+!.gitignore
+!*.py
+!*.md
+!LICENSE
+
